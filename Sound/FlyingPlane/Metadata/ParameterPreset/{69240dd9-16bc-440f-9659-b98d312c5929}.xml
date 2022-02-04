@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{69240dd9-16bc-440f-9659-b98d312c5929}">
+		<property name="name">
+			<value>VolunmePlayer</value>
+		</property>
+		<relationship name="folder">
+			<destination>{58029685-7a24-413e-8109-3b753f56f818}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f3eaccfe-5f88-4751-a74c-38af447764dd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f3eaccfe-5f88-4751-a74c-38af447764dd}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

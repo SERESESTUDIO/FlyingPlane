@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d5eabd7a-62ce-4ec7-ae5e-fc46f5876b7d}">
+		<property name="name">
+			<value>Fan</value>
+		</property>
+		<relationship name="folder">
+			<destination>{58029685-7a24-413e-8109-3b753f56f818}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{faafecd2-e0b5-4529-bb11-9a2ec5a3a23e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{faafecd2-e0b5-4529-bb11-9a2ec5a3a23e}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

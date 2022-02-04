@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d6b9dbe8-ca8d-4437-8858-57c3f09a6d52}">
+		<property name="assetPath">
+			<value>Ambient/highway.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>136.50666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{03d59d85-ed64-4b28-a67f-047c6b70c9d1}</destination>
+		</relationship>
+	</object>
+</objects>
